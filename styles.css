@@ -538,3 +538,50 @@ section:nth-of-type(odd) {
 .social-icons img {
     width: 40px;
 }
+
+@media (max-width: 1024px) {
+    .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .container img,
+    .des {
+        flex: none;
+        width: 100%;
+    }
+
+    .des {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-right {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
+    .container {
+        padding: 10px;
+    }
+
+    .clip iframe {
+        height: 200px;
+    }
+
+    .des {
+        font-size: 1rem;
+    }
+
+    .social-media h2,
+    .social-media .wrapthank,
+    .social-media .email {
+        font-size: 0.9rem;
+    }
