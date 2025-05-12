@@ -539,49 +539,122 @@ section:nth-of-type(odd) {
     width: 40px;
 }
 
-@media (max-width: 1024px) {
-    .container {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .container img,
-    .des {
-        flex: none;
-        width: 100%;
-    }
-
-    .des {
-        font-size: 1.2rem;
-    }
-}
-
 @media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    
+    .container {
+        height: auto;
+        margin-top: 80px;
+        padding: 0 10px;
+    }
+
+
+    header {
+        padding: 0.5rem 1rem;
+        flex-direction: column;
+    }
+
     .nav-container {
         flex-direction: column;
         align-items: center;
     }
 
-    .nav-right {
+    .nav-left, .nav-right {
         flex-direction: column;
-        align-items: center;
         gap: 10px;
     }
-}
-    .container {
-        padding: 10px;
-    }
 
-    .clip iframe {
-        height: 200px;
-    }
-
-    .des {
+    .nav-about, .back-to-top {
         font-size: 1rem;
     }
 
-    .social-media h2,
-    .social-media .wrapthank,
-    .social-media .email {
+    .parallax-text {
+        font-size: 2.5rem;
+    }
+
+    .photo-grid {
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        grid-template-rows: auto;
+        gap: 10px;
+        padding: 0 10px;
+    }
+
+    .photo-item {
+        height: auto;
+    }
+
+    embed {
+        width: 100%;
+        height: auto;
+    }
+
+    .social-media {
+        padding: 30px 10px;
+    }
+
+    .wrap {
+        font-size: 0.8rem;
+    }
+
+    .wrapthank {
+        font-size: 1.5rem;
+    }
+
+    .email {
         font-size: 0.9rem;
     }
+
+    .control-buttons {
+        gap: 20px;
+    }
+
+    .play-button, .prev-button, .next-button {
+        width: 40px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    input[type="range"] {
+        height: 15px;
+    }
+
+    input[type="range"]::-webkit-slider-thumb,
+    input[type="range"]::-moz-range-thumb {
+        width: 15px;
+        height: 15px;
+    }
+
+    .playlist li {
+        padding: 5px 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .nav-about, .back-to-top {
+        font-size: 0.9rem;
+    }
+
+    .parallax-text {
+        font-size: 2rem;
+    }
+
+    .wrapthank {
+        font-size: 1.2rem;
+    }
+
+    .play-button, .prev-button, .next-button {
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .playlist li {
+        font-size: 0.8rem;
+    }
+
+    .photo-grid {
+        grid-template-columns: 1fr;
+    }
+}
