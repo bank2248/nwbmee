@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+
+<head>
+    <script type="module" src="/@vite/client"></script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Album Portfolio - Pure Gray</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            /* Primary Color Configuration (HSL-based) - Monochrome */
+            --primary-hue: 0;
+            --primary-saturation: 0%;
+            --primary-lightness: 15%;
+            /* Dark Gray for Light Mode */
+            --primary-lightness-hover: 25%;
+            /* Slightly Lighter Gray */
+            --primary-text-on-primary-lightness: 95%;
+            /* White text for contrast */
+
+            /* Grayscale Configuration (HSL-based) - Pure Gray */
+            --gray-hue: 0;
+            --gray-saturation: 0%;
+
+            /* Light Theme Grays */
+            --gray-light-0: hsl(var(--gray-hue), var(--gray-saturation), 100%);
+            /* #ffffff */
+            --gray-light-50: hsl(var(--gray-hue), var(--gray-saturation), 97%);
+            /* #f7f7f7 */
+            --gray-light-100: hsl(var(--gray-hue), var(--gray-saturation), 94%);
+            /* #efefef */
+            --gray-light-200: hsl(var(--gray-hue), var(--gray-saturation), 88%);
+            /* #e0e0e0 */
+            --gray-light-300: hsl(var(--gray-hue), var(--gray-saturation), 78%);
+            /* #c7c7c7 */
+            --gray-light-400: hsl(var(--gray-hue), var(--gray-saturation), 67%);
+            /* #ababab */
+            --gray-light-500: hsl(var(--gray-hue), var(--gray-saturation), 53%);
+            /* #888888 */
+            --gray-light-600: hsl(var(--gray-hue), var(--gray-saturation), 40%);
+            /* #666666 */
+            --gray-light-700: hsl(var(--gray-hue), var(--gray-saturation), 27%);
+            /* #454545 */
+            --gray-light-800: hsl(var(--gray-hue), var(--gray-saturation), 16%);
+            /* #2a2a2a */
+            --gray-light-900: hsl(var(--gray-hue), var(--gray-saturation), 10%);
+            /* #1a1a1a */
+
+            /* Dark Theme Grays */
+            --gray-dark-0: hsl(var(--gray-hue), var(--gray-saturation), 7%);
+            /* #121212 */
+            --gray-dark-50: hsl(var(--gray-hue), var(--gray-saturation), 10%);
+            /* #1a1a1a */
+            --gray-dark-100: hsl(var(--gray-hue), var(--gray-saturation), 13%);
+            /* #212121 */
+            --gray-dark-200: hsl(var(--gray-hue), var(--gray-saturation), 20%);
+            /* #333333 */
+            --gray-dark-300: hsl(var(--gray-hue), var(--gray-saturation), 31%);
+            /* #4f4f4f */
+            --gray-dark-400: hsl(var(--gray-hue), var(--gray-saturation), 42%);
+            /* #6b6b6b */
+            --gray-dark-500: hsl(var(--gray-hue), var(--gray-saturation), 53%);
+            /* #888888 */
+            --gray-dark-600: hsl(var(--gray-hue), var(--gray-saturation), 66%);
+            /* #a8a8a8 */
+            --gray-dark-700: hsl(var(--gray-hue), var(--gray-saturation), 76%);
+            /* #c2c2c2 */
+            --gray-dark-800: hsl(var(--gray-hue), var(--gray-saturation), 87%);
+            /* #dedede */
+            --gray-dark-900: hsl(var(--gray-hue), var(--gray-saturation), 96%);
+            /* #f5f5f5 */
+
+            /* Semantic Color Variables - Light Theme Defaults */
+            --color-primary: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness));
+            --color-primary-hover: hsl(var(--primary-hue), var(--primary-saturation), var(--primary-lightness-hover));
+            --color-primary-focus-ring: hsla(var(--primary-hue), var(--primary-saturation), var(--primary-lightness), 0.4);
+            --color-text-on-primary: hsl(var(--primary-hue), var(--gray-saturation), var(--primary-text-on-primary-lightness));
+
+            --bg-app-gradient-start: var(--gray-light-50);
+            --bg-app-gradient-mid-start: var(--gray-light-100);
+            --bg-app-gradient-mid-end: var(--gray-light-200);
+            --bg-app-gradient-end: var(--gray-light-300);
+
+            --bg-default: var(--gray-light-0);
+            /* Base background for most components */
+            --bg-subtle: var(--gray-light-50);
+            /* Slightly off-base, for cards or grouped elements */
+            --bg-element: var(--gray-light-100);
+            /* Inputs, specific UI elements */
+            --bg-muted: var(--gray-light-200);
+            /* Muted backgrounds, disabled states */
+            --bg-accent: var(--color-primary);
+            --bg-accent-hover: var(--color-primary-hover);
+
+            --bg-surface-glass: hsla(var(--gray-hue), var(--gray-saturation), 100%, 0.6);
+            /* white/60 */
+            --bg-surface-glass-濃: hsla(var(--gray-hue), var(--gray-saturation), 100%, 0.75);
+            /* white/75 */
+            --bg-overlay: hsla(var(--gray-hue), var(--gray-saturation), 10%, 0.5);
+            /* darkish/50 */
+
+            --text-default: var(--gray-light-900);
+            --text-secondary: var(--gray-light-700);
+            --text-muted: var(--gray-light-500);
+            --text-subtle: var(--gray-light-400);
+            --text-placeholder: var(--gray-light-400);
+            --text-on-accent: var(--color-text-on-primary);
+            --text-inverted: var(--gray-dark-900);
+
+            --border-default: var(--gray-light-300);
+            --border-subtle: var(--gray-light-200);
+            --border-muted: var(--gray-light-100);
+            --border-accent: var(--color-primary);
+            --border-glass: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.08);
+
+            --ring-color-focus: var(--color-primary-focus-ring);
+
+            --shadow-color: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.1);
+            --shadow-color-strong: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.15);
+
+            --scrollbar-track-bg: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.03);
+            --scrollbar-thumb-bg: hsla(var(--gray-hue), var(--gray-saturation), 40%, 0.4);
+            --scrollbar-thumb-hover-bg: hsla(var(--gray-hue), var(--gray-saturation), 30%, 0.6);
+
+            --range-track-bg: var(--gray-light-200);
+            --range-thumb-bg: var(--color-primary);
+            --range-thumb-border: var(--gray-light-0);
+            --range-thumb-shadow: hsla(var(--primary-hue), var(--primary-saturation), var(--primary-lightness), 0.3);
+        }
+
+        html.dark {
+            /* Primary Color Overrides for Dark Mode */
+            --primary-lightness: 95%;
+            /* Light Gray for Dark Mode */
+            --primary-lightness-hover: 85%;
+            /* Slightly Darker Gray */
+            --primary-text-on-primary-lightness: 15%;
+            /* Dark text for contrast */
+
+            --bg-app-gradient-start: var(--gray-dark-0);
+            --bg-app-gradient-mid-start: var(--gray-dark-50);
+            --bg-app-gradient-mid-end: var(--gray-dark-100);
+            --bg-app-gradient-end: var(--gray-dark-200);
+
+            --bg-default: var(--gray-dark-50);
+            --bg-subtle: var(--gray-dark-100);
+            --bg-element: var(--gray-dark-200);
+            --bg-muted: var(--gray-dark-300);
+
+            --bg-surface-glass: hsla(var(--gray-hue), var(--gray-saturation), 10%, 0.6);
+            /* dark/60 */
+            --bg-surface-glass-濃: hsla(var(--gray-hue), var(--gray-saturation), 7%, 0.75);
+            /* darker/75 */
+            --bg-overlay: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.6);
+            /* blackish/60 */
+
+            --text-default: var(--gray-dark-900);
+            --text-secondary: var(--gray-dark-700);
+            --text-muted: var(--gray-dark-500);
+            --text-subtle: var(--gray-dark-400);
+            --text-placeholder: var(--gray-dark-400);
+            --text-inverted: var(--gray-light-900);
+
+            --border-default: var(--gray-dark-300);
+            --border-subtle: var(--gray-dark-200);
+            --border-muted: var(--gray-dark-400);
+            --border-glass: hsla(var(--gray-hue), var(--gray-saturation), 100%, 0.12);
+
+            --shadow-color: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.25);
+            --shadow-color-strong: hsla(var(--gray-hue), var(--gray-saturation), 0%, 0.35);
+
+            --scrollbar-track-bg: hsla(var(--gray-hue), var(--gray-saturation), 100%, 0.05);
+            --scrollbar-thumb-bg: hsla(var(--gray-hue), var(--gray-saturation), 60%, 0.4);
+            --scrollbar-thumb-hover-bg: hsla(var(--gray-hue), var(--gray-saturation), 70%, 0.6);
+
+            --range-track-bg: var(--gray-dark-300);
+            /* --range-thumb-bg is var(--color-primary) */
+            --range-thumb-border: var(--gray-dark-100);
+            /* --range-thumb-shadow uses primary color */
+        }
+
+        @keyframes gradientAnimation {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        body {
+            font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+            background: linear-gradient(-45deg, var(--bg-app-gradient-start), var(--bg-app-gradient-mid-start), var(--bg-app-gradient-mid-end), var(--bg-app-gradient-end));
+            background-size: 400% 400%;
+            animation: gradientAnimation 25s ease infinite;
+            position: relative;
+            color: var(--text-default);
+        }
+
+        ::-webkit-scrollbar {
+            width: 10px;
+            height: 10px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--scrollbar-track-bg);
+            border-radius: 5px;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--scrollbar-thumb-bg);
+            border-radius: 5px;
+            border: 2px solid transparent;
+            background-clip: content-box;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--scrollbar-thumb-hover-bg);
+        }
+
+        .glass-border {
+            border: 1px solid var(--border-glass);
+        }
+
+        input[type="range"] {
+            -webkit-appearance: none;
+            appearance: none;
+            background: transparent;
+            cursor: pointer;
+        }
+
+        /* For Webkit browsers - Track is styled using style prop on element for dynamic progress */
+        input[type="range"]::-webkit-slider-runnable-track {
+            height: 6px;
+            /* background: var(--range-track-bg); */
+            /* Now handled by inline style for progress fill */
+            border-radius: 3px;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            margin-top: -5px;
+            /* Adjust to center thumb on track */
+            background-color: var(--range-thumb-bg);
+            height: 16px;
+            width: 16px;
+            border-radius: 50%;
+            border: 2px solid var(--range-thumb-border);
+            box-shadow: 0 0 5px var(--range-thumb-shadow);
+        }
+
+        /* For Firefox - Track is styled using style prop on element for dynamic progress */
+        input[type="range"]::-moz-range-track {
+            height: 6px;
+            /* background: var(--range-track-bg); */
+            /* Now handled by inline style for progress fill */
+            border-radius: 3px;
+        }
+
+        input[type="range"]::-moz-range-thumb {
+            background-color: var(--range-thumb-bg);
+            height: 16px;
+            width: 16px;
+            border-radius: 50%;
+            border: 2px solid var(--range-thumb-border);
+            box-shadow: 0 0 5px var(--range-thumb-shadow);
+        }
+    </style>
+
+    <link rel="stylesheet" href="/index.css">
+</head>
+
+<script type="module" crossorigin="" src="/scripts_chord.js"></script>
+
+<body class="antialiased">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+</body>
+
+</html>
