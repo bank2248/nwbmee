@@ -9287,7 +9287,7 @@ var Fh = Wh();
 const Ph = vd(Fh),
     Ih = [{
         id: "album1",
-        title: "ไม่ใช่แค่ฉัน",
+        title: "ไม่จดไม่จำ",
         artist: "",
         releaseYear: "2023",
         coverArtUrl: "./asset/photo/notjustme16.jpg",
@@ -9414,10 +9414,10 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album2",
-        title: "Midnight Grooves",
-        artist: "Velvet Soul",
-        releaseYear: 2022,
-        coverArtUrl: "https://picsum.photos/seed/album2/600/600",
+        title: "ไม่คิดอะไร",
+        artist: "",
+        releaseYear: 2023,
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "Smooth rhythms and soulful melodies perfect for late-night listening and contemplative moments.",
         lyrics: [{
             chords: "Dm7          G7",
@@ -9445,10 +9445,10 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album3",
-        title: "Acoustic Horizons",
-        artist: "Wanderer's Tune",
+        title: "ไม่โกรธมั้ง",
+        artist: "",
         releaseYear: 2024,
-        coverArtUrl: "https://picsum.photos/seed/album3/600/600",
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "An intimate collection of acoustic pieces that paint landscapes of tranquility and introspection.",
         lyrics: [{
             chords: "G         D         Em        C",
@@ -9483,10 +9483,10 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album4",
-        title: "Rhythmic Pulse",
-        artist: "Beat Alchemist",
+        title: "ไม่ใช่แค่ฉัน",
+        artist: "",
         releaseYear: 2023,
-        coverArtUrl: "https://picsum.photos/seed/album4/600/600",
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "High-energy electronic beats and intricate rhythms designed to move your body and mind.",
         lyrics: [{
             lyric: "Kinetic energy, feel the bass"
@@ -9510,10 +9510,10 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album5",
-        title: "Celestial Harmonies",
-        artist: "Nova Sound",
+        title: "ไม่เท่าไร",
+        artist: "",
         releaseYear: 2021,
-        coverArtUrl: "https://picsum.photos/seed/album5/600/600",
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "Ambient textures and ethereal melodies that transport the listener to distant galaxies and cosmic wonders.",
         lyrics: [{
             chords: "Em        C",
@@ -9541,10 +9541,10 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album6",
-        title: "Urban Canvas",
-        artist: "Graffiti Maestro",
+        title: "ไม่ต้องห่วง ไม่เป็นไร",
+        artist: "",
         releaseYear: 2024,
-        coverArtUrl: "https://picsum.photos/seed/album6/600/600",
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
         lyrics: [{
             lyric: "Concrete jungle, where the stories grow"
@@ -9567,6 +9567,70 @@ const Ph = vd(Fh),
             audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
         }, {
             id: "t6-3",
+            title: "Sidewalk Symphony",
+            duration: "4:00",
+            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+        }]
+    }, {
+        id: "album7",
+        title: "ไม่ต้องห่วง ไม่เป็นไร",
+        artist: "",
+        releaseYear: 2024,
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
+        description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
+        lyrics: [{
+            lyric: "Concrete jungle, where the stories grow"
+        }, {
+            lyric: "Night ride cruising, taking it slow"
+        }, {
+            lyric: "Sidewalk symphony, the city's flow"
+        }, {
+            lyric: "Underneath the streetlights' faded glow"
+        }],
+        tracks: [{
+            id: "t7-1",
+            title: "Concrete Jungle",
+            duration: "3:15",
+            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+        }, {
+            id: "t7-2",
+            title: "Night Ride",
+            duration: "2:50",
+            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+        }, {
+            id: "t7-3",
+            title: "Sidewalk Symphony",
+            duration: "4:00",
+            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+        }]
+    }, {
+        id: "album8",
+        title: "ไม่ต้องห่วง ไม่เป็นไร",
+        artist: "",
+        releaseYear: 2024,
+        coverArtUrl: "./asset/photo/notjustme16.jpg",
+        description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
+        lyrics: [{
+            lyric: "Concrete jungle, where the stories grow"
+        }, {
+            lyric: "Night ride cruising, taking it slow"
+        }, {
+            lyric: "Sidewalk symphony, the city's flow"
+        }, {
+            lyric: "Underneath the streetlights' faded glow"
+        }],
+        tracks: [{
+            id: "t8-1",
+            title: "Concrete Jungle",
+            duration: "3:15",
+            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+        }, {
+            id: "t8-2",
+            title: "Night Ride",
+            duration: "2:50",
+            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+        }, {
+            id: "t8-3",
             title: "Sidewalk Symphony",
             duration: "4:00",
             audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
