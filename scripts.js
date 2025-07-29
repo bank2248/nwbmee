@@ -9663,7 +9663,7 @@ const t1 = gd(l1),
                 children: "WTF?"
             }), o.jsx("p", {
                 className: "mt-4 text-lg md:text-xl text-[var(--text-secondary)] max-w-2xl mx-auto",
-                children: "Welcome, you idiot stupid fuck!. Who the fuck are you? This is my film scoring project—so listen up. If you wanna see what I’ve done, click the (Works) button right above your ma’s damn head."
+                children: "Welcome, you idiot stupid fuck!. Who the fuck are you? These are my film scoring projects—so listen up. If you wanna see what I’ve done, click the (Works) button right above your ma’s damn head."
             })]
         })
     }),
