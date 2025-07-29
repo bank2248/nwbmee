@@ -9641,7 +9641,7 @@ const t1 = gd(l1),
                 className: "relative inline-block",
                 children: [
                   o.jsx("a", {
-                    href: "/work",
+                    href: "/work.html",
                     className: "relative z-10 bg-transparent border border-[var(--border-subtle)] text-[var(--text-default)] font-medium px-5 py-2 rounded-full transition-all duration-300 hover:shadow-[0_0_10px_white] hover:border-[white] hover:text-[white] focus:outline-none",
                     children: "Works"
                   }),
