@@ -9427,7 +9427,7 @@ const t1 = gd(l1),
         artist: "Romantic/Thriller",
         releaseYear: 2022,
         coverArtUrl: "./asset/player/008_Mookrata/source/cover.jpg",
-        description: "Bitch",
+        description: ":)",
         tracks: [{
             id: "t8-1",
             title: "New Year",
