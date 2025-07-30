@@ -9292,109 +9292,139 @@ const Ph = vd(Fh),
         releaseYear: "2023",
         coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "A journey through futuristic soundscapes and digital dreams, exploring themes of hope and technological marvel.",
-        lyrics: [{
-            chords: "Am G C F",
-            lyric: ""
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            chords: "C    G    Am              F",
-            lyric: "อย่ามา ยุ่งกับ ฉันทั้งน้านนนนน งืมมมมมมม"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: ""
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            chords: "Am      G            C         F",
-            lyric: "Chrome reflections on the wet terrain"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            chords: "C          G          Am        G",
-            lyric: "Washing the world of its static stain"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            lyric: ""
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
         }, {
-            chords: "F    C       G      Am",
-            lyric: "(Chorus) Oh, echoes of tomorrow call"
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
         }, {
-            chords: "F           C         G",
-            lyric: "Through the wire, we stand up tall"
+            chords: "",
         }, {
-            chords: "F    C        G      Am",
-            lyric: "In the silence, we give our all"
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: ""
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "F#sus4"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "",
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "",
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "B / Eadd9 / B / Eadd9",
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
         }, {
-            chords: "F         G           C",
-            lyric: "Before the final curtain fall"
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }],
         tracks: [{
             id: "t1-1",
@@ -9414,23 +9444,74 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album2",
-        title: "ไม่คิดอะไร",
+        title: "ชอบเธอที่",
         artist: "",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "Smooth rhythms and soulful melodies perfect for late-night listening and contemplative moments.",
+        description: "DAMN!!",
         lyrics: [{
-            chords: "Dm7          G7",
-            lyric: "Velvet moon in a sky so wide"
+            chords: "   D         C#m         Bm        A",
+            lyric: "เธอบอกว่าฉันเป็นคนที่สำคัญ และรักฉันมากแค่ไหน"
         }, {
-            chords: "Cmaj7        Fmaj7",
-            lyric: "Got nowhere to run, nowhere to hide"
+            chords: "   D        C#m         Bm       A",
+            lyric: "เธอบอกเสมอว่าเธอไม่เสียใจ ที่ใช้ชีวิตอยู่กับฉัน"
         }, {
-            chords: "Dm7          G7",
-            lyric: "Just the city lights as my only guide"
+            chords: "   D        C#m      Bm        A",
+            lyric: "มีอยู่หนึ่งครั้งเธอเล่าให้ฟัง ว่ารถเธอพังไม่ไปไหน"
         }, {
-            chords: "Cmaj7        A7",
-            lyric: "With this midnight groove deep down inside"
+            chords: "   D         C#m      Bm        A",
+            lyric: "เธอเลยชวนฉันไปขึ้นรถไฟ จะไกลแค่ไหนก็ไป"
+        }, {
+            chords: "     D",
+            lyric: "ไปจากความวุ่นวายทั้งหมด"
+        }, {
+            chords: "  C#m     F#",
+            lyric: "ให้ชีวิตนี้มีแต่ความสดใส"
+        }, {
+            chords: "      Bm       C#m    B7",
+            lyric: "จากตอนนั้น ถึงตอนนี้ และจะถึงเมื่อไหร่"
+        }, {
+            chords: "      Bm        A",
+            lyric: "อยากให้เธอเป็นคนดูแล"
+        }, {
+            chords: ""
+        }, {
+            chords: "    D         C#m ",
+            lyric: "ชอบเธอที่บอกว่าไม่เคยเสียใจ"
+        }, {
+            chords: "    Bm        A",
+            lyric: "ตั้งแต่วันที่เรานั้นได้พบกัน"
+        }, {
+            chords: "     D              C#m ",
+            lyric: "ชอบที่เธอบอกฉันว่าเธอได้เป็นคนใหม่"
+        }, {
+            chords: "     Bm      A",
+            lyric: "ตั้งแต่วันที่เราได้อยู่ด้วยกัน"
+        }, {
+            chords: "      D          C#m",
+            lyric: "จะอยู่กับคนคนนี้ไม่ว่าจะเศร้าเพียงใด"
+        }, {
+            chords: "     Bm        A    ",
+            lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
+        }, {
+            chords: "D / E / A / A / E / E"
+        }, {
+            chords: ""
+        }, {
+            chords: "     D              C#m ",
+            lyric: "ชอบที่เธอบอกฉันว่าเธอได้เป็นคนใหม่"
+        }, {
+            chords: "     Bm      A",
+            lyric: "ตั้งแต่วันที่เราได้อยู่ด้วยกัน"
+        }, {
+            chords: "      D          C#m",
+            lyric: "จะอยู่กับคนคนนี้ไม่ว่าจะเศร้าเพียงใด"
+        }, {
+            chords: "     Bm        A    ",
+            lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
+        }, {
+            chords: "     Bm        A    ",
+            lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
         }],
         tracks: [{
             id: "t2-1",
