@@ -9289,9 +9289,9 @@ const Ph = vd(Fh),
         id: "album1",
         title: "ไม่จดไม่จำ",
         artist: "",
-        releaseYear: "2023",
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "A journey through futuristic soundscapes and digital dreams, exploring themes of hope and technological marvel.",
+        releaseYear: "2025",
+        coverArtUrl: "./asset/photo/remember.png",
+        description: "",
         lyrics: [, {
             chords: "   B               G#m7",
             lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
@@ -9447,7 +9447,7 @@ const Ph = vd(Fh),
         title: "ชอบเธอที่",
         artist: "",
         releaseYear: 2023,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
+        coverArtUrl: "./asset/photo/ilyw.png",
         description: "DAMN!!",
         lyrics: [{
             chords: "   D         C#m         Bm        A",
@@ -9529,8 +9529,8 @@ const Ph = vd(Fh),
         title: "ไม่โกรธมั้ง",
         artist: "",
         releaseYear: 2024,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "An intimate collection of acoustic pieces that paint landscapes of tranquility and introspection.",
+        coverArtUrl: "./asset/photo/mad.png",
+        description: "",
         lyrics: [{
             chords: "G         D         Em        C",
             lyric: "Golden sun on the morning dew"
@@ -9568,7 +9568,7 @@ const Ph = vd(Fh),
         artist: "",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "High-energy electronic beats and intricate rhythms designed to move your body and mind.",
+        description: "",
         lyrics: [{
             lyric: "Kinetic energy, feel the bass"
         }, {
@@ -9594,8 +9594,8 @@ const Ph = vd(Fh),
         title: "ไม่เท่าไร",
         artist: "",
         releaseYear: 2021,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "Ambient textures and ethereal melodies that transport the listener to distant galaxies and cosmic wonders.",
+        coverArtUrl: "./asset/photo/maimak.jpg",
+        description: "",
         lyrics: [{
             chords: "Em        C",
             lyric: "Drifting stardust in the void so deep"
@@ -9625,8 +9625,8 @@ const Ph = vd(Fh),
         title: "ไม่ต้องห่วง ไม่เป็นไร",
         artist: "",
         releaseYear: 2024,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
+        coverArtUrl: "./asset/photo/fine.png",
+        description: "",
         lyrics: [{
             lyric: "Concrete jungle, where the stories grow"
         }, {
@@ -9654,11 +9654,11 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album7",
-        title: "ไม่ต้องห่วง ไม่เป็นไร",
+        title: "โชคดีมีชัย โชคชัยมีวัว",
         artist: "",
         releaseYear: 2024,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
+        coverArtUrl: "./asset/photo/luck.png",
+        description: "",
         lyrics: [{
             lyric: "Concrete jungle, where the stories grow"
         }, {
@@ -9686,11 +9686,11 @@ const Ph = vd(Fh),
         }]
     }, {
         id: "album8",
-        title: "ไม่ต้องห่วง ไม่เป็นไร",
+        title: "ไม่คิดอะไร",
         artist: "",
         releaseYear: 2024,
-        coverArtUrl: "./asset/photo/notjustme16.jpg",
-        description: "A vibrant mix of hip-hop beats, jazz samples, and street sounds, capturing the essence of city life.",
+        coverArtUrl: "./asset/photo/yonder.jpg",
+        description: "",
         lyrics: [{
             lyric: "Concrete jungle, where the stories grow"
         }, {
