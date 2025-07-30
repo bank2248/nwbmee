@@ -9386,7 +9386,7 @@ const Lv = fr(Vv),
         },
     }],
     wv = () => z.jsx("header", {
-        className: "border-b border-[var(--border-subtle)]",
+        className: "border-[var(--border-subtle)]",
         children: z.jsx("div", {
           className: "container mx-auto px-6 py-4 flex justify-end items-center",
           children: z.jsxs(z.Fragment, {

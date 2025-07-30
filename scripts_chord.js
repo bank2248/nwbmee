@@ -9425,22 +9425,6 @@ const Ph = vd(Fh),
         }, {
             chords: "     C#m7(add11)       Eadd9 ",
             lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
-        }],
-        tracks: [{
-            id: "t1-1",
-            title: "Digital Dawn",
-            duration: "4:15",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
-        }, {
-            id: "t1-2",
-            title: "Chrome Horizon",
-            duration: "3:50",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
-        }, {
-            id: "t1-3",
-            title: "Neon Pulse",
-            duration: "5:02",
-            audioSrc: "https://storage.googleapis.com/media-session/big-buck-bunny/intro.mp3"
         }]
     }, {
         id: "album2",
@@ -9512,17 +9496,6 @@ const Ph = vd(Fh),
         }, {
             chords: "     Bm        A    ",
             lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
-        }],
-        tracks: [{
-            id: "t2-1",
-            title: "Velvet Moon",
-            duration: "3:30",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
-        }, {
-            id: "t2-2",
-            title: "City Lights",
-            duration: "4:05",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
         }]
     }, {
         id: "album3",
@@ -9531,36 +9504,139 @@ const Ph = vd(Fh),
         releaseYear: 2024,
         coverArtUrl: "./asset/photo/mad.png",
         description: "",
-        lyrics: [{
-            chords: "G         D         Em        C",
-            lyric: "Golden sun on the morning dew"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            chords: "G         D         C         G",
-            lyric: "Waking up to a world brand new"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: ""
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            chords: "C         G         D         G",
-            lyric: "Open fields, stretching far and wide"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            chords: "C         G         D         G",
-            lyric: "With a fireside song as my trusted guide"
-        }],
-        tracks: [{
-            id: "t3-1",
-            title: "Morning Sun",
-            duration: "2:55",
-            audioSrc: "https://storage.googleapis.com/media-session/big-buck-bunny/intro.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            id: "t3-2",
-            title: "Open Fields",
-            duration: "3:45",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
         }, {
-            id: "t3-3",
-            title: "Fireside Song",
-            duration: "4:10",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }, {
         id: "album4",
@@ -9569,25 +9645,139 @@ const Ph = vd(Fh),
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/notjustme16.jpg",
         description: "",
-        lyrics: [{
-            lyric: "Kinetic energy, feel the bass"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            lyric: "Frequency shift, all over the place"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: "The rhythm takes hold, a frantic pace"
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            lyric: "Lost in the sound, without a trace"
-        }],
-        tracks: [{
-            id: "t4-1",
-            title: "Kinetic Energy",
-            duration: "3:20",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            id: "t4-2",
-            title: "Frequency Shift",
-            duration: "4:00",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }, {
         id: "album5",
@@ -9596,29 +9786,139 @@ const Ph = vd(Fh),
         releaseYear: 2021,
         coverArtUrl: "./asset/photo/maimak.jpg",
         description: "",
-        lyrics: [{
-            chords: "Em        C",
-            lyric: "Drifting stardust in the void so deep"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            chords: "G         D",
-            lyric: "Secrets that the universe will keep"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            chords: "Em        C",
-            lyric: "A purple nebula where new worlds sleep"
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            chords: "G         D",
-            lyric: "While ancient, silent watchers weep"
-        }],
-        tracks: [{
-            id: "t5-1",
-            title: "Stardust",
-            duration: "5:10",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            id: "t5-2",
-            title: "Nebula",
-            duration: "6:25",
-            audioSrc: "https://storage.googleapis.com/media-session/big-buck-bunny/intro.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }, {
         id: "album6",
@@ -9627,30 +9927,139 @@ const Ph = vd(Fh),
         releaseYear: 2024,
         coverArtUrl: "./asset/photo/fine.png",
         description: "",
-        lyrics: [{
-            lyric: "Concrete jungle, where the stories grow"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            lyric: "Night ride cruising, taking it slow"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: "Sidewalk symphony, the city's flow"
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            lyric: "Underneath the streetlights' faded glow"
-        }],
-        tracks: [{
-            id: "t6-1",
-            title: "Concrete Jungle",
-            duration: "3:15",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            id: "t6-2",
-            title: "Night Ride",
-            duration: "2:50",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            id: "t6-3",
-            title: "Sidewalk Symphony",
-            duration: "4:00",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }, {
         id: "album7",
@@ -9659,30 +10068,139 @@ const Ph = vd(Fh),
         releaseYear: 2024,
         coverArtUrl: "./asset/photo/luck.png",
         description: "",
-        lyrics: [{
-            lyric: "Concrete jungle, where the stories grow"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            lyric: "Night ride cruising, taking it slow"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: "Sidewalk symphony, the city's flow"
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            lyric: "Underneath the streetlights' faded glow"
-        }],
-        tracks: [{
-            id: "t7-1",
-            title: "Concrete Jungle",
-            duration: "3:15",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            id: "t7-2",
-            title: "Night Ride",
-            duration: "2:50",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            id: "t7-3",
-            title: "Sidewalk Symphony",
-            duration: "4:00",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }, {
         id: "album8",
@@ -9691,42 +10209,145 @@ const Ph = vd(Fh),
         releaseYear: 2024,
         coverArtUrl: "./asset/photo/yonder.jpg",
         description: "",
-        lyrics: [{
-            lyric: "Concrete jungle, where the stories grow"
+        lyrics: [, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
         }, {
-            lyric: "Night ride cruising, taking it slow"
+            chords: "    C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
         }, {
-            lyric: "Sidewalk symphony, the city's flow"
+            chords: " B             G#m7",
+            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
         }, {
-            lyric: "Underneath the streetlights' faded glow"
-        }],
-        tracks: [{
-            id: "t8-1",
-            title: "Concrete Jungle",
-            duration: "3:15",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/proog.mp3"
+            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
+            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
         }, {
-            id: "t8-2",
-            title: "Night Ride",
-            duration: "2:50",
-            audioSrc: "https://storage.googleapis.com/media-session/elephants-dream/the-wires.mp3"
+            chords: "     B5add9              Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
         }, {
-            id: "t8-3",
-            title: "Sidewalk Symphony",
-            duration: "4:00",
-            audioSrc: "https://storage.googleapis.com/media-session/sintel/snow-fight.mp3"
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7          F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: ""
+        }, {
+            chords: "F#sus4"
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)    Eadd9 ",
+            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+        }, {
+            chords: "   B               G#m7",
+            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
+        }, {
+            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
+            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 ",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "",
+        }, {
+            chords: "B / Eadd9 / B / Eadd9",
+        }, {
+            chords: "  B               G#m7",
+            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+        }, {
+            chords: "  C#m7(add11)      Eadd9",
+            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+        }, {
+            chords: "  B              G#m7",
+            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+        }, {
+            chords: "   C#m7(add11)  Eadd9          Eadd9",
+            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+        }, {
+            chords: "      B5add9             Dm7b5",
+            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+        }, {
+            chords: "    C#m7 Eadd9   B",
+            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+        }, {
+            chords: "   C#m7         F#sus4",
+            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+        }, {
+            chords: "",
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "     Eadd9   B      F#sus4  G#m7",
+            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+        }, {
+            chords:  "       Eadd9 B      F#sus4 G#m7",
+            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+        }, {
+            chords: "  Eadd9 B     F#sus4 G#m7",
+            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+        }, {
+            chords: "       Eadd9  B     F#sus4 G#m7",
+            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+        }, {
+            chords:  "    Eadd9  B      F#sus4 G#m7",
+            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+        }, {
+            chords: "     C#m7      F#sus4 B",
+            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+        }, {
+            chords: "",
+        }, {
+            chords: "   B              G#m7",
+            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+        }, {
+            chords: "     C#m7(add11)       Eadd9 ",
+            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
         }]
     }],
     l1 = () => v.jsx("header", {
-        className: "border-a border-[var(--border-subtle)]",
+        className: "border-[var(--border-subtle)]",
         children: v.jsx("div", {
-            className: "container mx-auto px-6 py-4 flex justify-end items-center",
-            children: v.jsx("a", {
-                href: "index.html",
-                className: "bg-transparent hover:bg-[var(--bg-element)] text-[var(--text-secondary)] hover:text-[var(--text-default)] font-semibold py-2 px-4 border border-[var(--border-subtle)] rounded-lg shadow-sm transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-[var(--bg-default)] focus:ring-[var(--color-primary)]",
-                "aria-label": "Navigate to the movie section",
-                children: ""
-            })
+            className: "container mx-auto px-6 py-4 flex justify-end items-center"
         })
     }),
     t1 = () => v.jsx("section", {

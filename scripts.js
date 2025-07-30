@@ -9632,7 +9632,7 @@ const t1 = gd(l1),
         }]
     }],
     a1 = () => o.jsx("header", {
-        className: "border-b border-[var(--border-subtle)]",
+        className: "border-[var(--border-subtle)]",
         children: o.jsx("div", {
           className: "container mx-auto px-6 py-4 flex justify-end items-center",
           children: o.jsxs(o.Fragment, {
