@@ -9288,8 +9288,8 @@ const Ph = vd(Fh),
     Ih = [{
         id: "album1",
         title: "ไม่จดไม่จำ",
-        artist: "",
-        releaseYear: "2025",
+        artist: "Key of B major",
+        releaseYear: "4/4",
         coverArtUrl: "./asset/photo/remember.png",
         description: "",
         lyrics: [, {
@@ -9429,18 +9429,18 @@ const Ph = vd(Fh),
     }, {
         id: "album2",
         title: "ชอบเธอที่",
-        artist: "",
-        releaseYear: 2023,
+        artist: "Key of A major",
+        releaseYear: "4/4",
         coverArtUrl: "./asset/photo/ilyw.png",
         description: "DAMN!!",
         lyrics: [{
-            chords: "   D         C#m         Bm        A",
+            chords: "   D         C#m         Bm       Bm ",
             lyric: "เธอบอกว่าฉันเป็นคนที่สำคัญ และรักฉันมากแค่ไหน"
         }, {
             chords: "   D        C#m         Bm       A",
             lyric: "เธอบอกเสมอว่าเธอไม่เสียใจ ที่ใช้ชีวิตอยู่กับฉัน"
         }, {
-            chords: "   D        C#m      Bm        A",
+            chords: "   D        C#m      Bm        Bm",
             lyric: "มีอยู่หนึ่งครั้งเธอเล่าให้ฟัง ว่ารถเธอพังไม่ไปไหน"
         }, {
             chords: "   D         C#m      Bm        A",
@@ -9456,14 +9456,14 @@ const Ph = vd(Fh),
             lyric: "จากตอนนั้น ถึงตอนนี้ และจะถึงเมื่อไหร่"
         }, {
             chords: "      Bm        A",
-            lyric: "อยากให้เธอเป็นคนดูแล"
+            lyric: "ฝากให้เธอเป็นคนดูแล"
         }, {
             chords: ""
         }, {
             chords: "    D         C#m ",
             lyric: "ชอบเธอที่บอกว่าไม่เคยเสียใจ"
         }, {
-            chords: "    Bm        A",
+            chords: "    Bm      A",
             lyric: "ตั้งแต่วันที่เรานั้นได้พบกัน"
         }, {
             chords: "     D              C#m ",
@@ -9478,9 +9478,43 @@ const Ph = vd(Fh),
             chords: "     Bm        A    ",
             lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
         }, {
-            chords: "D / E / A / A / E / E"
+            chords: "D E / A / E"
+        }, {
+            chords: "D / C#m / Bm / Bm C#"
+        }, {
+            chords: "   D         C#m          Bm        Bm",
+            lyric: "แต่ก่อนคือฉันเป็นคนไม่ค่อยแคร์ ว่ารักแท้จริงสักแค่ไหน"
+        }, {
+            chords: "   D          C#m           Bm        A",
+            lyric: "มองมาตอนนี้ มองเธอข้าง ๆ กาย สิ่งนั้นมันจริงสำหรับฉัน"
+        }, {
+            chords: "   D         C#m         Bm       Bm ",
+            lyric: "ฉันบอกว่าเธอเป็นคนที่สำคัญ และรักเธอมากแค่ไหน"
+        }, {
+            chords: "   D        C#m          Bm       A",
+            lyric: "ฉันเลยชวนเธอไปดูดอกไม้ไฟ จะสวยแค่ไหนก็ไป"
+        }, {
+            lyric: ""
+        }, {
+            chords: "     D",
+            lyric: "ไปจากความวุ่นวายทั้งหมด"
+        }, {
+            chords: "  C#m     F#",
+            lyric: "ให้ชีวิตนี้มีแต่ความสดใส"
+        }, {
+            chords: "   Bm      C#m   B7",
+            lyric: "ทั้งชีวิต นับจากนี้ อีกตลอดไป"
+        }, {
+            chords: "      Bm        A",
+            lyric: "อยากให้เธอเป็นคนดูแล"
         }, {
             chords: ""
+        }, {
+            chords: "    D         C#m ",
+            lyric: "ชอบเธอที่บอกว่าไม่เคยเสียใจ"
+        }, {
+            chords: "    Bm       A",
+            lyric: "ตั้งแต่วันที่เรานั้นได้พบกัน"
         }, {
             chords: "     D              C#m ",
             lyric: "ชอบที่เธอบอกฉันว่าเธอได้เป็นคนใหม่"
@@ -9494,150 +9528,193 @@ const Ph = vd(Fh),
             chords: "     Bm        A    ",
             lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
         }, {
+            chords: "D E / A / E"
+        }, {
+            chords: "   A         C#m         F#m       Em   A ",
+            lyric: "เธอบอกว่าฉันเป็นคนที่สำคัญ และรักฉันมากแค่ไหน"
+        }, {
+            chords: "   D        B          Bm        A",
+            lyric: "มีเธอและฉันเดินร่วมทางไป จะไกลแค่ไหนก็ไป"
+        }, {
+            chords: "    D         C#m ",
+            lyric: "ชอบเธอที่บอกว่าไม่เคยเสียใจ"
+        }, {
+            chords: "    Bm      A",
+            lyric: "ตั้งแต่วันที่เรานั้นได้พบกัน"
+        }, {
+            chords: "     D              C#m ",
+            lyric: "ชอบที่เธอบอกฉันว่าเธอได้เป็นคนใหม่"
+        }, {
+            chords: "     Bm      A",
+            lyric: "ตั้งแต่วันที่เราได้อยู่ด้วยกัน"
+        }, {
+            chords: "      D          C#m",
+            lyric: "จะอยู่กับคนคนนี้ไม่ว่าจะเศร้าเพียงใด"
+        }, {
             chords: "     Bm        A    ",
             lyric: "เธอจะคอยใส่ใจ ไม่ให้ฉันกลัว"
+        }, {
+            chords: "D E / A / E / A"
         }]
     }, {
         id: "album3",
         title: "ไม่โกรธมั้ง",
-        artist: "",
-        releaseYear: 2024,
+        artist: "Key of A Major",
+        releaseYear: "4/4",
         coverArtUrl: "./asset/photo/mad.png",
         description: "",
         lyrics: [, {
-            chords: "   B               G#m7",
-            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+            chords: "Aadd9 / Aadd9",
         }, {
-            chords: "    C#m7(add11)    Eadd9 ",
-            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+            chords: "            A                C#m",
+            lyric: "อากาศกลางวันก็ร้อน อากาศกลางคืนก็ร้อน"
         }, {
-            chords: " B             G#m7",
-            lyric: "มีช่วงเวลาดีดี ทุกวันนี้ของเธอกับเขา"
+            chords: "         Bm  ",
+            lyric: "บวกกับตอนนอน ยิ่งนอนไม่ค่อยหลับ"
         }, {
-            chords: "    C#m7(add11)     Eadd9  F# Eadd9",
-            lyric: "คนที่ควรมันไม่ใช่เรา ฉันกับเธอคงไม่มีวันนั้น"
+            chords: "     E7",
+            lyric: "เพราะดันกลับไปคิดถึง"
         }, {
-            chords: "     B5add9              Dm7b5",
-            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
+            chords: "       A              C#m",
+            lyric: "เรื่องเมื่อเช้า ประโยคที่เราพูดกับเขา"
         }, {
-            chords: "    C#m7 Eadd9   B",
-            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
+            chords: "        Bm",
+            lyric: "บวกกับน้ำเสียงที่ฟังไม่ค่อยเหมาะ"
         }, {
-            chords: "   C#m7          F#sus4",
-            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+            chords: "   E7",
+            lyric: "จึงอยากจะขออย่าโกรธกัน"
         }, {
             chords: "",
         }, {
-            chords: "  Eadd9 B     F#sus4 G#m7",
-            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+            chords: " Bm    C#m   D          Dm",
+            lyric: "ได้ไหม ได้ไหม     อยากรู้ว่าได้หรือเปล่า"
         }, {
-            chords: "     Eadd9   B      F#sus4  G#m7",
-            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+            chords: " Bm     C#m     D         Dm",
+            lyric: "โกรธไหม โกรธไหม    ไม่ชัวร์อะไรสักอย่าง"
         }, {
-            chords:  "       Eadd9 B      F#sus4 G#m7",
-            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+            chords: " Bm    C#m  D        Dm",
+            lyric: "กลัวอยู่ ทนอยู่     ไม่รู้อีกนานแค่ไหน"
         }, {
-            chords: "     C#m7      F#sus4 B",
-            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+            chords: " Bm   C#m     E7",
+            lyric: "ต่อจากนี้เป็นอย่างไร"
         }, {
             chords: ""
         }, {
-            chords: "F#sus4"
+            chords: " D     E     C#m F#m",
+            lyric: "ก็ยังติด คิดอยู่ว่าเราทำผิดไป"
         }, {
-            chords: "   B              G#m7",
-            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+            chords: "D     E       C#m F#m",
+            lyric: "ทนกับ ความรู้สึกที่เรายังเก็บไว้"
         }, {
-            chords: "     C#m7(add11)    Eadd9 ",
-            lyric: "ตั้งแต่เราได้รู้จักกัน อยู่ข้างกันทุก ๆ เวลา"
+            chords: "D    E     C#m F#m      Bm   C#m",
+            lyric: "แต่สุดท้ายไม่เคยกล้าพูดมันออกไป"
         }, {
-            chords: "   B               G#m7",
-            lyric: "เป็นช่วงเวลาดีดี แอบมองเธอมากเกินกว่านั้น"
-        }, {
-            chords: "     C#m7(add11)        Eadd9     F#  Eadd9",
-            lyric: "คิดกับเธอมากเกินเพื่อนกัน อึดอัดใจ อยากให้เธอได้รู้"
-        }, {
-            chords: "      B5add9             Dm7b5",
-            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
-        }, {
-            chords: "    C#m7 Eadd9   B",
-            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
-        }, {
-            chords: "   C#m7         F#sus4",
-            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+            chords: "       D            E7         Aadd9",
+            lyric: "ทำได้แค่เพียง เสี่ยงดวงว่าเขาคงไม่โกรธเรามั้ง"
         }, {
             chords: "",
         }, {
-            chords: "  Eadd9 B     F#sus4 G#m7",
-            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
-        }, {
-            chords: "     Eadd9   B      F#sus4  G#m7",
-            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
-        }, {
-            chords:  "       Eadd9 B      F#sus4 G#m7",
-            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
-        }, {
-            chords: "     C#m7      F#sus4 ",
-            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+            chords: "Aadd9",
         }, {
             chords: "",
         }, {
-            chords: "B / Eadd9 / B / Eadd9",
+            chords: "          A               C#m",
+            lyric: "วันวันที่ผ่านมานั้น จะคิดมากเกินไปไหน"
         }, {
-            chords: "  B               G#m7",
-            lyric: "อากาศกลางวันก็ร้อน อากาศตอนเย็นก็ฝน"
+            chords: "         Bm  ",
+            lyric: "แต่ถ้อยคำที่ใช้ เขาเหมือนไม่พอใจ"
         }, {
-            chords: "  C#m7(add11)      Eadd9",
-            lyric: "อากาศกลางคืนก็หนาว ยิ่งชวนให้ฉันคิดถึง"
+            chords: "   E7",
+            lyric: "เราทำอะไรผิดไปจริง ๆ"
         }, {
-            chords: "  B              G#m7",
-            lyric: "ที่ใจเต้นแรงช่วงนี้ เธอจะได้ยินบ้านไหม"
+            chords: "  A               C#m",
+            lyric: "ใช่ไหม เป็นตอนที่เราพูดกับเขา"
         }, {
-            chords: "   C#m7(add11)  Eadd9          Eadd9",
-            lyric: "ต่อให้ใจเธอมีเขา แล้วเธอจะเหงาบ้างไหม"
+            chords: "         Bm",
+            lyric: "หรืออาจเป็นครั้งที่ไม่ได้ช่วยอะไร"
         }, {
-            chords: "      B5add9             Dm7b5",
-            lyric: "หยุดตัวเองไว้แค่ไหน ต้องการห้ามใจ"
-        }, {
-            chords: "    C#m7 Eadd9   B",
-            lyric: "แต่ว่าใจ ไปชอบมันทุกที"
-        }, {
-            chords: "   C#m7         F#sus4",
-            lyric: "จะกี่ครั้ง เป็นกี่ครั้งก็ไม่จำ"
+            chords: "  E7",
+            lyric: "จึงอยากจะขออย่าโกรธกัน"
         }, {
             chords: "",
         }, {
-            chords: "  Eadd9 B     F#sus4 G#m7",
-            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+            chords: " Bm    C#m   D          Dm",
+            lyric: "ได้ไหม ได้ไหม     อยากรู้ว่าได้หรือเปล่า"
         }, {
-            chords: "     Eadd9   B      F#sus4  G#m7",
-            lyric: "เธอมาทำ ให้หวั่นไหว ก็ไปชอบมันทุกที"
+            chords: " Bm     C#m     D         Dm",
+            lyric: "โกรธไหม โกรธไหม    ไม่ชัวร์อะไรสักอย่าง"
         }, {
-            chords:  "       Eadd9 B      F#sus4 G#m7",
-            lyric: "เบื่อตัวเอง เจ็บไม่จำ แต่ห้ามใจไว้ไม่ไหว"
+            chords: " Bm    C#m  D        Dm",
+            lyric: "กลัวอยู่ ทนอยู่     ไม่รู้อีกนานแค่ไหน"
         }, {
-            chords: "     C#m7      F#sus4 B",
-            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเป็น"
+            chords: " Bm   C#m     E7",
+            lyric: "ต่อจากนี้เป็นอย่างไร"
         }, {
-            chords: "  Eadd9 B     F#sus4 G#m7",
-            lyric: "คนอื่นเขา เป็นแบบนี้กันบ้างไหม"
+            chords: ""
         }, {
-            chords: "       Eadd9  B     F#sus4 G#m7",
-            lyric: "อยากบอกเธอให้เธอรู้ ว่าตัวฉันนั้นมีใจ"
+            chords: " D     E     C#m F#m",
+            lyric: "ก็ยังติด คิดอยู่ว่าเราทำผิดไป"
         }, {
-            chords:  "    Eadd9  B      F#sus4 G#m7",
-            lyric: "หากเธอรู้ว่าฉันคิด เธอจะไปจากฉันไหม"
+            chords: "D     E       C#m F#m",
+            lyric: "ทนกับ ความรู้สึกที่เรายังเก็บไว้"
         }, {
-            chords: "     C#m7      F#sus4 B",
-            lyric: "เหนื่อยจริง ๆ ทำไมฉันจะต้องเดา"
+            chords: "D    E     C#m F#m      Bm   C#m",
+            lyric: "แต่สุดท้ายไม่เคยกล้าพูดมันออกไป"
+        }, {
+            chords: "       D            E7         Aadd9",
+            lyric: "ทำได้แค่เพียง เสี่ยงดวงว่าเขาคงไม่โกรธเรามั้ง"
         }, {
             chords: "",
         }, {
-            chords: "   B              G#m7",
-            lyric: "เป็นช่วงเวลาดีดี เธอเป็นเพื่อนที่ดีต่อฉัน"
+            chords: "Aadd9",
         }, {
-            chords: "     C#m7(add11)       Eadd9 ",
-            lyric: "ได้กวนตีนล้อเล่นทุกวัน เพื่อนที่ดีทุก ๆ เวลา"
-        }]
+            chords: "",
+        }, {
+            chords: "B C#m / C#m / D",
+        }, {
+            chords: "             E7  ",
+            lyric: "ต่อจากนี้เป็นอย่างไร"
+        }, {
+            chords: "",
+        }, {
+            chords: " D     E     C#m F#m",
+            lyric: "ก็ยังติด คิดอยู่ว่าเราทำผิดไป"
+        }, {
+            chords: "D     E       C#m F#m",
+            lyric: "ทนกับ ความรู้สึกที่เรายังเก็บไว้"
+        }, {
+            chords: "D    E    C#m  F#m      Bm   C#m",
+            lyric: "แต่สุดท้ายไม่เคยกล้าพูดมันออกไป"
+        }, {
+            chords: "       D            E7 ",
+            lyric: "ทำได้แค่เพียง กังวลเรื่องเขาแล้วเรา"
+        }, {
+            chords: " D     E     C#m F#m",
+            lyric: "ก็ยังติด คิดอยู่ว่าเราทำผิดไป"
+        }, {
+            chords: "D     E       C#m F#m",
+            lyric: "ทนกับ ความรู้สึกที่เรายังเก็บไว้"
+        }, {
+            chords: "D    E    C#m  F#m      Bm   C#m",
+            lyric: "แต่สุดท้ายไม่เคยกล้าพูดมันออกไป"
+        }, {
+            chords: "       D            E7   ",
+            lyric: "ทำได้แค่เพียง แอบหวังให้เขาไม่โกรธเรา"
+        }, {
+            chords:"  D     E     C#m        F#m",
+            lyric: "ได้ไหม ได้ไหม     อยากรู้ว่าได้หรือเปล่า"
+        }, {
+            chords: "D E / C#m F#m",
+        }, {
+            chords:" D       E       C#m        F#m",
+            lyric: "โกรธไหม โกรธไหม     ไม่ชัวร์อะไรสักอย่าง"
+        }, {
+            chords:"Bm   C#m          D",
+            lyric: "           ทำได้แค่เพียง"
+        }, {
+            chords:"         E7           Aa99",
+            lyric: "เสี่ยงดวงว่าเขาคงไม่โกรธเรามั้ง"
+        }, ]
     }, {
         id: "album4",
         title: "ไม่ใช่แค่ฉัน",
