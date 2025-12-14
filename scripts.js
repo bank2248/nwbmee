@@ -9285,8 +9285,84 @@ function Iv() {
 }
 var l1 = Iv();
 const t1 = gd(l1),
-    kl = "./asset/player/013_i7d9N/source/01_Which_Path_I_Have_To_Go.mp3",
+    kl = "./asset/player/015_pipaksue/source/pipaksue_1m1.wav",
     e1 = [{
+        id: "album15",
+        title: "พิพากษ์สื่อ",
+        artist: "Drama/Shoegaze",
+        releaseYear: 2025,
+        coverArtUrl: "./asset/player/015_pipaksue/source/cover.jpg",
+        description: ":)",
+        tracks: [{
+            id: "t15-1",
+            title: "Bangkok News Intro",
+            duration: "1:18",
+            audioSrc: kl
+        }, {
+            id: "t15-2",
+            title: ":)",
+            duration: "0:40",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m2.wav"
+        }, {
+            id: "t15-3",
+            title: "Interestingly Realization",
+            duration: "1:36",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m3.wav"
+        }, {
+            id: "t15-4",
+            title: "Interviewer Interviewing",
+            duration: "0:53",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m4.wav"
+        }, {
+            id: "t15-5",
+            title: "Interview the SO",
+            duration: "1:31",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m5.wav"
+        }, {
+            id: "t15-6",
+            title: "Inside the Box",
+            duration: "1:31",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m6.wav"
+        }, {
+            id: "t15-7",
+            title: "New Bangkok News",
+            duration: "2:34",
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m9.wav"
+        }]
+    }, {
+        id: "album14",
+        title: "The Bread Knight",
+        artist: "Adventure/Drama/Animated",
+        releaseYear: 2025,
+        coverArtUrl: "./asset/player/014_knightbread/source/cover.jpg",
+        description: ":)",
+        tracks: [{
+            id: "t14-1",
+            title: "Knight and Bread",
+            duration: "3:13",
+            audioSrc: kl
+        }, {
+            id: "t14-2",
+            title: "Bread Talk",
+            duration: "1:25",
+            audioSrc: "./asset/player/014_knightbread/source/m2_master.wav"
+        }, {
+            id: "t14-3",
+            title: "Night Knight",
+            duration: "1:24",
+            audioSrc: "./asset/player/014_knightbread/source/m3_master.wav"
+        }, {
+            id: "t14-4",
+            title: "Recollection",
+            duration: "2:24",
+            audioSrc: "./asset/player/014_knightbread/source/m4_master.wav"
+        }, {
+            id: "t14-5",
+            title: "Breadknight",
+            duration: "3:36",
+            audioSrc: "./asset/player/014_knightbread/source/m5_master.wav"
+        }]
+    }, {
         id: "album13",
         title: "i7d9N",
         artist: "Drama Short Film",
