@@ -9340,7 +9340,7 @@ const t1 = gd(l1),
             id: "t14-1",
             title: "Knight and Bread",
             duration: "3:13",
-            audioSrc: kl
+            audioSrc: "./asset/player/014_knightbread/source/m1_master.wav"
         }, {
             id: "t14-2",
             title: "Bread Talk",
@@ -9373,7 +9373,7 @@ const t1 = gd(l1),
             id: "t13-1",
             title: "Which Path I Have To Go",
             duration: "1:06",
-            audioSrc: kl
+            audioSrc: "./asset/player/014_knightbread/source/01_Which_Path_I_Have_To_Go.mp3"
         }, {
             id: "t13-2",
             title: "This Path Is My Home",
