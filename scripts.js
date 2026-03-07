@@ -9769,10 +9769,10 @@ const t1 = gd(l1),
             className: "max-w-3xl mx-auto",
             children: [o.jsx("h1", {
                 className: "text-4xl md:text-5xl font-bold text-[var(--text-default)] leading-tight tracking-tight",
-                children: "hey"
+                children: "Hello"
             }), o.jsx("p", {
                 className: "mt-4 text-lg md:text-xl text-[var(--text-secondary)] max-w-2xl mx-auto",
-                children: "These are my film scoring projects—so listen up. If you wanna see what I’ve done, click the (Works) button right on top of the page."
+                children: ""
             })]
         })
     }),
