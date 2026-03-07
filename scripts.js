@@ -9285,8 +9285,41 @@ function Iv() {
 }
 var l1 = Iv();
 const t1 = gd(l1),
-    kl = "./asset/player/015_pipaksue/source/pipaksue_1m1.wav",
+    kl = "./asset/player/016_stardust/source/stardust1.mp3",
     e1 = [{
+        id: "album16",
+        title: "Stardust",
+        artist: "Animation/Fantasy/Thriller",
+        releaseYear: 2026,
+        coverArtUrl: "./asset/player/016_stardust/source/stardust_cv.jpg",
+        description: ":)",
+        tracks: [{
+            id: "t16-1",
+            title: "Kid with Fireflies",
+            duration: "0:53",
+            audioSrc: kl
+        }, {
+            id: "t16-2",
+            title: "City Inhaler",
+            duration: "0:30",
+            audioSrc: "./asset/player/016_stardust/source/stardust2.mp3"
+        }, {
+            id: "t16-3",
+            title: "Dusty is dusting",
+            duration: "1:46",
+            audioSrc: "./asset/player/016_stardust/source/stardust3.mp3"
+        }, {
+            id: "t16-4",
+            title: "World of dust",
+            duration: "1:46",
+            audioSrc: "./asset/player/016_stardust/source/stardust4a.mp3"
+        }, {
+            id: "t16-5",
+            title: "World of dust(Alternative Film Version)",
+            duration: "1:32",
+            audioSrc: "./asset/player/016_stardust/source/stardust4b.mp3"
+        }]
+    }, {
         id: "album15",
         title: "พิพากษ์สื่อ",
         artist: "Drama/Shoegaze",
@@ -9819,7 +9852,7 @@ const t1 = gd(l1),
             }),
             o.jsx("p", {
               className: "text-sm text-[var(--text-muted)]",
-              children: "2025"
+              children: "2026"
             }),
             o.jsx("p", {
               className: "text-sm text-[var(--text-muted)]",
