@@ -9330,7 +9330,7 @@ const t1 = gd(l1),
             id: "t15-1",
             title: "Bangkok News Intro",
             duration: "1:18",
-            audioSrc: kl
+            audioSrc: "./asset/player/015_pipaksue/source/pipaksue_1m1.wav"
         }, {
             id: "t15-2",
             title: ":)",
@@ -9752,7 +9752,14 @@ const t1 = gd(l1),
                   o.jsx("a", {
                     href: "/work",
                     className: "relative z-10 bg-transparent border border-[var(--border-subtle)] text-[var(--text-default)] font-medium px-5 py-2 rounded-full transition-all duration-300 hover:shadow-[0_0_10px_white] hover:border-[white] hover:text-[white] focus:outline-none",
-                    children: "Works"
+                    children: "Short Film"
+                  }),
+                  o.jsx("a", {
+                    href: "https://www.lomashow.xyz/",
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                    className: "relative z-10 bg-transparent border border-[var(--border-subtle)] text-[var(--text)] px-4 py-2 rounded",
+                    children: "LOMASHOW - Indie Music Project"
                   }),
                   o.jsx("div", {
                     className: "absolute inset-0 z-0 animate-particles pointer-events-none"
@@ -9769,7 +9776,7 @@ const t1 = gd(l1),
             className: "max-w-3xl mx-auto",
             children: [o.jsx("h1", {
                 className: "text-4xl md:text-5xl font-bold text-[var(--text-default)] leading-tight tracking-tight",
-                children: "Hello"
+                children: "Hello, This section showcases my music compositions!"
             }), o.jsx("p", {
                 className: "mt-4 text-lg md:text-xl text-[var(--text-secondary)] max-w-2xl mx-auto",
                 children: ""
@@ -9835,7 +9842,7 @@ const t1 = gd(l1),
             o.jsxs("div", {
               className: "flex justify-center items-center space-x-6 mb-6",
               children: o.jsx("a", {
-                href: "https://www.youtube.com/@ab7j",
+                href: "https://www.youtube.com/@beemooncomposer",
                 "aria-label": "YouTube",
                 target: "_blank",
                 rel: "noopener noreferrer",

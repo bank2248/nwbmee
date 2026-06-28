@@ -9307,7 +9307,7 @@ const Lv = fr(Vv),
             source: "youtube",
             videoId: "Isqk6mX4gPI"
         },
-    }*/, {
+    }*/, /*{
         id: "album7",
         title: "Ultramarine",
         artist: "Adventure/Drama",
@@ -9318,13 +9318,13 @@ const Lv = fr(Vv),
             source: "youtube",
             videoId: "Isqk6mX4gPI"
         },
-    }, {
+    }, */{
         id: "album1",
         title: "i7d9N",
-        artist: "Drama",
+        artist: "Drama | Role: Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/i7d9N.jpg",
-        description: "",
+        description: "Role: Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "youtube",
             videoId: "-UVE9RWfkmU"
@@ -9332,10 +9332,10 @@ const Lv = fr(Vv),
     }, {
         id: "album2",
         title: "Burger Queen",
-        artist: "Action/Comedy",
+        artist: "Action/Comedy | Role: Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/bq.png",
-        description: "",
+        description: "Role: Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "vimeo",
             videoId: "779866731"
@@ -9343,10 +9343,10 @@ const Lv = fr(Vv),
     }, {
         id: "album3",
         title: "Run Teeh Run!",
-        artist: "Horror",
+        artist: "Horror | Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/teeh.jpeg",
-        description: "",
+        description: "Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "vimeo",
             videoId: "755909996"
@@ -9354,10 +9354,10 @@ const Lv = fr(Vv),
     }, {
         id: "album4",
         title: "Sunflower",
-        artist: "Horror",
+        artist: "Horror | Role: Boom Operator, Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/sun.jpg",
-        description: "",
+        description: "Role: Boom Operator, Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "vimeo",
             videoId: "721757015"
@@ -9365,10 +9365,10 @@ const Lv = fr(Vv),
     }, {
         id: "album5",
         title: "Mookrata",
-        artist: "Romatic/Thriller",
+        artist: "Romatic/Thriller | Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/moo.jpg",
-        description: "",
+        description: "Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "vimeo",
             videoId: "705242955"
@@ -9376,10 +9376,10 @@ const Lv = fr(Vv),
     }, {
         id: "album6",
         title: "Toilet In Peace",
-        artist: "Action",
+        artist: "Action | Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         releaseYear: 2023,
         coverArtUrl: "./asset/photo/toilet.png",
-        description: "",
+        description: "Role: Recordist, Edit, Mix, Foley, and Master Film, Music Composer",
         video: {
             source: "vimeo",
             videoId: "694875956"
@@ -9412,7 +9412,14 @@ const Lv = fr(Vv),
                       z.jsx("a", {
                         href: "/",
                         className: "relative z-10 bg-transparent border border-[var(--border-subtle)] text-[var(--text-default)] font-medium px-5 py-2 rounded-full transition-all duration-300 hover:shadow-[0_0_10px_white] hover:border-[white] hover:text-[white] focus:outline-none",
-                        children: "Home"
+                        children: "Music"
+                      }),
+                      z.jsx("a", {
+                        href: "https://www.lomashow.xyz/",
+                        target: "_blank",
+                        rel: "noopener noreferrer",
+                        className: "relative z-10 bg-transparent border border-[var(--border-subtle)] text-[var(--text-default)] font-medium px-5 py-2 rounded-full transition-all duration-300 hover:shadow-[0_0_10px_white] hover:border-[white] hover:text-[white] focus:outline-none",
+                        children: "LOMASHOW - Indie Music Project"
                       }),
                       z.jsx("div", {
                         className: "absolute inset-0 z-0 animate-particles pointer-events-none"
@@ -9493,7 +9500,7 @@ const Lv = fr(Vv),
             }), z.jsxs("div", {
                 className: "flex justify-center items-center space-x-6 mb-6",
                 children: z.jsx(tf, {
-                    href: "https://www.youtube.com/@ab7j",
+                    href: "https://www.youtube.com/@beemooncomposer",
                     ariaLabel: "YouTube",
                     children: z.jsx("svg", {
                         xmlns: "http://www.w3.org/2000/svg",
@@ -9507,7 +9514,7 @@ const Lv = fr(Vv),
                 })
             }), z.jsx("p", {
                 className: "text-sm text-[var(--text-muted)]",
-                children: "2025"
+                children: "2026"
             }), z.jsx("p", {
                 className: "text-sm text-[var(--text-muted)]",
                 children: "nwmbee@gmail.com"
